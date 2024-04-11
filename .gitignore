@@ -1,3 +1,4 @@
 *.log
 !vip.log
 file.txt
+*.rtf #* igonre the word files
